@@ -1,0 +1,706 @@
+{
+  "_id": "GaMPtVN-r",
+  "state": "LIVE",
+  "scoreStreamStates": "NOT_STREAMING",
+  "description": "",
+  "properties": { "ppt": 11, "opi": 20, "opb": 4 },
+  "innings": 1,
+  "battingTeamID": "gx6F4Vk3k",
+  "bowlingTeamID": "Ds7lIVJG8s",
+  "updates": [
+    {
+      "type": "OVER",
+      "bowler": "Wood",
+      "over": 1,
+      "score": "5/0",
+      "updates": [
+        { "type": "BALL", "ball": "0.1", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "0.2", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "0.3", "batter": "Nicholls", "runs": 0 },
+        { "type": "BALL", "ball": "0.4", "batter": "Nicholls", "runs": 4 },
+        { "type": "BALL", "ball": "0.5", "batter": "Nicholls", "runs": 0 },
+        { "type": "BALL", "ball": "1.0", "batter": "Nicholls", "runs": 0 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Archer",
+      "over": 2,
+      "score": "11/0",
+      "updates": [
+        { "type": "BALL", "ball": "1.1", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "1.2", "batter": "Nicholls", "runs": 4 },
+        { "type": "BALL", "ball": "1.3", "batter": "Nicholls", "runs": 0 },
+        { "type": "BALL", "ball": "1.4", "batter": "Nicholls", "runs": 0 },
+        { "type": "BALL", "ball": "1.5", "batter": "Nicholls", "runs": 0 },
+        { "type": "BALL", "ball": "2.0", "batter": "Nicholls", "runs": 1 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Wood",
+      "over": 3,
+      "score": "29/0",
+      "updates": [
+        { "type": "BALL", "ball": "2.1", "batter": "Nicholls", "runs": 4 },
+        { "type": "BALL", "ball": "2.2", "batter": "Nicholls", "runs": 6 },
+        { "type": "BALL", "ball": "2.3", "batter": "Nicholls", "runs": 1 },
+        { "type": "BALL", "ball": "2.4", "batter": "Guptill", "runs": 2 },
+        { "type": "BALL", "ball": "2.5", "batter": "Guptill", "runs": 4 },
+        { "type": "BALL", "ball": "3.0", "batter": "Guptill", "runs": 1 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Plunkett",
+      "over": 4,
+      "score": "36/1",
+      "updates": [
+        { "type": "BALL", "ball": "3.1", "batter": "Guptill", "runs": 1 },
+        {
+          "type": "BALL",
+          "ball": "3.2",
+          "batter": "Nicholls",
+          "runs": 0,
+          "wicket": { "type": "CAUGHT", "fielders": ["c0wzkYVV8UJ"] }
+        },
+        { "type": "BALL", "ball": "3.3", "batter": "Williamson", "runs": 1 },
+        { "type": "BALL", "ball": "3.4", "batter": "Guptill", "runs": 4 },
+        { "type": "BALL", "ball": "3.5", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "4.0", "batter": "Guptill", "runs": 1 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Rashid",
+      "over": 5,
+      "score": "45/1",
+      "updates": [
+        { "type": "BALL", "ball": "4.1", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "4.2", "batter": "Guptill", "runs": 4 },
+        { "type": "BALL", "ball": "4.3", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "4.4", "batter": "Williamson", "runs": 0 },
+        { "type": "BALL", "ball": "4.5", "batter": "Williamson", "runs": 0 },
+        { "type": "BALL", "ball": "5.0", "batter": "Williamson", "runs": 4 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Wood",
+      "over": 6,
+      "score": "51/1",
+      "updates": [
+        { "type": "BALL", "ball": "5.1", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "5.2", "batter": "Williamson", "runs": 1 },
+        { "type": "BALL", "ball": "5.3", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "5.4", "batter": "Williamson", "runs": 2 },
+        { "type": "BALL", "ball": "5.5", "batter": "Williamson", "runs": 0 },
+        { "type": "BALL", "ball": "6.0", "batter": "Williamson", "runs": 1 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Rashid",
+      "over": 7,
+      "score": "61/1",
+      "updates": [
+        { "type": "BALL", "ball": "6.1", "batter": "Williamson", "runs": 1 },
+        { "type": "BALL", "ball": "6.2", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "6.3", "batter": "Williamson", "runs": 4 },
+        { "type": "BALL", "ball": "6.4", "batter": "Williamson", "runs": 0 },
+        { "type": "BALL", "ball": "6.5", "batter": "Williamson", "runs": 0 },
+        { "type": "BALL", "ball": "7.0", "batter": "Williamson", "runs": 4 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Plunkett",
+      "over": 8,
+      "score": "62/1",
+      "updates": [
+        { "type": "BALL", "ball": "7.1", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "7.2", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "7.3", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "7.4", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "7.5", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "8.0", "batter": "Williamson", "runs": 0 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Stokes",
+      "over": 9,
+      "score": "74/3",
+      "updates": [
+        { "type": "BALL", "ball": "8.1", "batter": "Guptill", "runs": 4 },
+        { "type": "BALL", "ball": "8.2", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "8.3", "batter": "Williamson", "runs": 4 },
+        {
+          "type": "BALL",
+          "ball": "8.4",
+          "batter": "Williamson",
+          "runs": 0,
+          "wicket": { "type": "BOWLED" }
+        },
+        {
+          "type": "BALL",
+          "ball": "8.4",
+          "batter": "Taylor",
+          "runs": 2,
+          "noBall": true
+        },
+        {
+          "type": "BALL",
+          "ball": "8.5",
+          "batter": "Taylor",
+          "runs": 0,
+          "wicket": { "type": "LBW" }
+        },
+        { "type": "BALL", "ball": "9.0", "batter": "Latham", "runs": 0 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Rashid",
+      "over": 10,
+      "score": "81/3",
+      "updates": [
+        { "type": "BALL", "ball": "9.1", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "9.2", "batter": "Latham", "runs": 2 },
+        { "type": "BALL", "ball": "9.3", "batter": "Latham", "runs": 4 },
+        { "type": "BALL", "ball": "9.4", "batter": "Latham", "runs": 0 },
+        { "type": "BALL", "ball": "9.5", "batter": "Latham", "runs": 0 },
+        { "type": "BALL", "ball": "10.0", "batter": "Latham", "runs": 0 }
+      ]
+    },
+    {
+      "type": "OVER",
+      "bowler": "Archer",
+      "over": 11,
+      "score": "83/3",
+      "updates": [
+        { "type": "BALL", "ball": "10.1", "batter": "Guptill", "runs": 0 },
+        { "type": "BALL", "ball": "10.2", "batter": "Guptill", "runs": 1 },
+        { "type": "BALL", "ball": "10.3", "batter": "Latham", "runs": 1 }
+      ]
+    }
+  ],
+  "teams": {
+    "gx6F4Vk3k": {
+      "teamID": "gx6F4Vk3k",
+      "teamName": "New zealand",
+      "teamShortName": "NZ",
+      "batLineup": [
+        "iMV4qfuktQ",
+        "tIjB8ZeEFc",
+        "CUWTg-ogVS",
+        "mJeHDdifyB",
+        "XxqFOkOMGY",
+        "kflagAOJvy",
+        "opRkuuxeLu",
+        "8RVOvGqS6d",
+        "3-ZKA0vV5y",
+        "qPNmjIuAO7",
+        "nxUm5MOZFW"
+      ],
+      "batOrder": [
+        "iMV4qfuktQ",
+        "tIjB8ZeEFc",
+        "CUWTg-ogVS",
+        "mJeHDdifyB",
+        "XxqFOkOMGY"
+      ],
+      "currentStrikerID": "iMV4qfuktQ",
+      "currentBatterIDs": ["iMV4qfuktQ", "XxqFOkOMGY"],
+      "bowlOrder": [],
+      "outBatters": {},
+      "wickets": [
+        {
+          "type": "CAUGHT",
+          "fielders": ["c0wzkYVV8UJ"],
+          "bowlerID": "eloMMf-a0V4",
+          "batterID": "tIjB8ZeEFc"
+        },
+        {
+          "type": "BOWLED",
+          "bowlerID": "_FWTOfujsU-",
+          "batterID": "CUWTg-ogVS"
+        },
+        { "type": "LBW", "bowlerID": "_FWTOfujsU-", "batterID": "mJeHDdifyB" }
+      ],
+      "score": { "over": 10, "ball": 3, "score": 83, "wickets": 3 },
+      "extras": {
+        "wides": 0,
+        "noBalls": 1,
+        "byes": 0,
+        "legByes": 0,
+        "total": 1
+      },
+      "players": {
+        "iMV4qfuktQ": {
+          "id": "iMV4qfuktQ",
+          "firstName": "Martin",
+          "lastName": "Guptill",
+          "role": "batsman",
+          "batter": { "score": 31, "balls": 26, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "tIjB8ZeEFc": {
+          "id": "tIjB8ZeEFc",
+          "firstName": "Henry",
+          "lastName": "Nicholls",
+          "role": "batsman",
+          "batter": { "score": 20, "balls": 13, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "CUWTg-ogVS": {
+          "id": "CUWTg-ogVS",
+          "firstName": "Kane",
+          "lastName": "Williamson",
+          "role": "batsman",
+          "batter": { "score": 22, "balls": 16, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "mJeHDdifyB": {
+          "id": "mJeHDdifyB",
+          "firstName": "Ross",
+          "lastName": "Taylor",
+          "role": "batsman",
+          "batter": { "score": 2, "balls": 2, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "XxqFOkOMGY": {
+          "id": "XxqFOkOMGY",
+          "firstName": "Tom",
+          "lastName": "Latham",
+          "role": "wicket-keeper",
+          "batter": { "score": 7, "balls": 7, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "kflagAOJvy": {
+          "id": "kflagAOJvy",
+          "firstName": "James",
+          "lastName": "Neesham",
+          "role": "all-rounder",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "opRkuuxeLu": {
+          "id": "opRkuuxeLu",
+          "firstName": "Colin",
+          "lastName": "de Grandhomme",
+          "role": "all-rounder",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "8RVOvGqS6d": {
+          "id": "8RVOvGqS6d",
+          "firstName": "Mitchell",
+          "lastName": "Santer",
+          "role": "all-rounder",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "3-ZKA0vV5y": {
+          "id": "3-ZKA0vV5y",
+          "firstName": "Matt",
+          "lastName": "Henry",
+          "role": "bowler",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "qPNmjIuAO7": {
+          "id": "qPNmjIuAO7",
+          "firstName": "Trent",
+          "lastName": "Boult",
+          "role": "bowler",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "nxUm5MOZFW": {
+          "id": "nxUm5MOZFW",
+          "firstName": "Lockie",
+          "lastName": "Ferguson",
+          "role": "bowler",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        }
+      },
+      "playerIDs": [
+        "iMV4qfuktQ",
+        "tIjB8ZeEFc",
+        "CUWTg-ogVS",
+        "mJeHDdifyB",
+        "XxqFOkOMGY",
+        "kflagAOJvy",
+        "opRkuuxeLu",
+        "8RVOvGqS6d",
+        "3-ZKA0vV5y",
+        "qPNmjIuAO7",
+        "nxUm5MOZFW"
+      ],
+      "manhatten": {
+        "max": 18,
+        "overs": [
+          { "runs": 5 },
+          { "runs": 6 },
+          { "runs": 18 },
+          { "runs": 7, "wickets": 1 },
+          { "runs": 9 },
+          { "runs": 6 },
+          { "runs": 10 },
+          { "runs": 1 },
+          { "runs": 12, "wickets": 2 },
+          { "runs": 7 },
+          { "runs": 2 }
+        ]
+      },
+      "worm": {
+        "balls": [
+          { "runs": 0 },
+          { "runs": 1 },
+          { "runs": 1 },
+          { "runs": 5 },
+          { "runs": 5 },
+          { "runs": 5 },
+          { "runs": 6 },
+          { "runs": 10 },
+          { "runs": 10 },
+          { "runs": 10 },
+          { "runs": 10 },
+          { "runs": 11 },
+          { "runs": 15 },
+          { "runs": 21 },
+          { "runs": 22 },
+          { "runs": 24 },
+          { "runs": 28 },
+          { "runs": 29 },
+          { "runs": 30 },
+          { "runs": 30, "wicket": true },
+          { "runs": 31 },
+          { "runs": 35 },
+          { "runs": 35 },
+          { "runs": 36 },
+          { "runs": 36 },
+          { "runs": 40 },
+          { "runs": 41 },
+          { "runs": 41 },
+          { "runs": 41 },
+          { "runs": 45 },
+          { "runs": 46 },
+          { "runs": 47 },
+          { "runs": 48 },
+          { "runs": 50 },
+          { "runs": 50 },
+          { "runs": 51 },
+          { "runs": 52 },
+          { "runs": 53 },
+          { "runs": 57 },
+          { "runs": 57 },
+          { "runs": 57 },
+          { "runs": 61 },
+          { "runs": 61 },
+          { "runs": 61 },
+          { "runs": 61 },
+          { "runs": 61 },
+          { "runs": 62 },
+          { "runs": 62 },
+          { "runs": 66 },
+          { "runs": 67 },
+          { "runs": 71 },
+          { "runs": 71, "wicket": true },
+          { "runs": 74, "wicket": true },
+          { "runs": 74 },
+          { "runs": 75 },
+          { "runs": 77 },
+          { "runs": 81 },
+          { "runs": 81 },
+          { "runs": 81 },
+          { "runs": 81 },
+          { "runs": 81 },
+          { "runs": 82 },
+          { "runs": 83 }
+        ]
+      },
+      "outBatterID": null
+    },
+    "Ds7lIVJG8s": {
+      "teamID": "Ds7lIVJG8s",
+      "teamName": "England",
+      "teamShortName": "ENG",
+      "batLineup": [
+        "0Mcdek_ld9",
+        "9PmJpWVOV8",
+        "ckU00kaPWY",
+        "gRqB6IG6YHY",
+        "_FWTOfujsU-",
+        "c0wzkYVV8UJ",
+        "_URPz-6qzXj",
+        "KcIkz7SG3hn",
+        "eloMMf-a0V4",
+        "lF1Mg9aoXPQ",
+        "H9bLxatVKQy"
+      ],
+      "batOrder": [],
+      "currentStrikerID": null,
+      "currentBatterIDs": [],
+      "bowlOrder": [
+        "H9bLxatVKQy",
+        "KcIkz7SG3hn",
+        "eloMMf-a0V4",
+        "lF1Mg9aoXPQ",
+        "_FWTOfujsU-"
+      ],
+      "outBatters": {},
+      "wickets": [],
+      "score": { "over": 0, "ball": 0, "score": 0, "wickets": 0, "target": 84 },
+      "extras": {
+        "wides": 0,
+        "noBalls": 0,
+        "byes": 0,
+        "legByes": 0,
+        "total": 0
+      },
+      "players": {
+        "0Mcdek_ld9": {
+          "id": "0Mcdek_ld9",
+          "firstName": "Jason",
+          "lastName": "Roy",
+          "role": "batsman",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "9PmJpWVOV8": {
+          "id": "9PmJpWVOV8",
+          "firstName": "Jonny",
+          "lastName": "Bairstow",
+          "role": "batsman",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "ckU00kaPWY": {
+          "id": "ckU00kaPWY",
+          "firstName": "Joe",
+          "lastName": "Root",
+          "role": "batsman",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "gRqB6IG6YHY": {
+          "id": "gRqB6IG6YHY",
+          "firstName": "Eoin",
+          "lastName": "Morgan",
+          "role": "batsman",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "_FWTOfujsU-": {
+          "id": "_FWTOfujsU-",
+          "firstName": "Ben",
+          "lastName": "Stokes",
+          "role": "all-rounder",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 12,
+            "overs": 1,
+            "balls": 0,
+            "wickets": 2,
+            "didBowl": true
+          }
+        },
+        "c0wzkYVV8UJ": {
+          "id": "c0wzkYVV8UJ",
+          "firstName": "Jos",
+          "lastName": "Buttler",
+          "role": "wicket-keeper",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "_URPz-6qzXj": {
+          "id": "_URPz-6qzXj",
+          "firstName": "Chris",
+          "lastName": "Woaks",
+          "role": "all-rounder",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 0,
+            "overs": 0,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": false
+          }
+        },
+        "KcIkz7SG3hn": {
+          "id": "KcIkz7SG3hn",
+          "firstName": "Jofra",
+          "lastName": "Archer",
+          "role": "bowler",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 8,
+            "overs": 1,
+            "balls": 3,
+            "wickets": 0,
+            "didBowl": true
+          }
+        },
+        "eloMMf-a0V4": {
+          "id": "eloMMf-a0V4",
+          "firstName": "Liam",
+          "lastName": "Plunkett",
+          "role": "bowler",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 8,
+            "overs": 2,
+            "balls": 0,
+            "wickets": 1,
+            "didBowl": true
+          }
+        },
+        "lF1Mg9aoXPQ": {
+          "id": "lF1Mg9aoXPQ",
+          "firstName": "Adil",
+          "lastName": "Rashid",
+          "role": "bowler",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 26,
+            "overs": 3,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": true
+          }
+        },
+        "H9bLxatVKQy": {
+          "id": "H9bLxatVKQy",
+          "firstName": "Mark",
+          "lastName": "Wood",
+          "role": "bowler",
+          "batter": { "score": 0, "balls": 0, "didBat": true, "inAt": 1 },
+          "bowler": {
+            "runs": 29,
+            "overs": 3,
+            "balls": 0,
+            "wickets": 0,
+            "didBowl": true
+          }
+        }
+      },
+      "playerIDs": [
+        "0Mcdek_ld9",
+        "9PmJpWVOV8",
+        "ckU00kaPWY",
+        "gRqB6IG6YHY",
+        "_FWTOfujsU-",
+        "c0wzkYVV8UJ",
+        "_URPz-6qzXj",
+        "KcIkz7SG3hn",
+        "eloMMf-a0V4",
+        "lF1Mg9aoXPQ",
+        "H9bLxatVKQy"
+      ],
+      "manhatten": { "max": 0, "overs": [] },
+      "worm": { "balls": [] },
+      "currentBowlerID": "KcIkz7SG3hn",
+      "lastBowlerID": "KcIkz7SG3hn"
+    }
+  },
+  "result": { "state": "" }
+}

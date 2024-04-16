@@ -1,0 +1,52 @@
+{
+  "name": "minimal-react-webpack-babel-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "REDIRECT_URI=http://localhost:8080/ UPDATES_URI=ws://localhost:8083 webpack-dev-server --config ./webpack.config.js --mode development",
+    "build": "webpack",
+    "test": "echo \"No test specified\" && exit 0",
+    "storybook": "start-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/plugin-transform-runtime": "^7.4.3",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "@storybook/react": "^5.3.0",
+    "babel-loader": "^8.0.4",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^4.5.0",
+    "react-hot-loader": "^4.3.11",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.3.0"
+  },
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^1.6.4",
+    "@babel/runtime": "^7.4.3",
+    "@storybook/addon-actions": "^5.2.1",
+    "@cliffrange/kris-store": "0.0.1",
+    "grommet": "^2.16.3",
+    "grommet-icons": "^4.3.0",
+    "react": "^16.8.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^16.8.0",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.1.0",
+    "react-transition-group": "^4.4.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "short-uuid": "^3.1.1",
+    "shortid": "^2.2.15",
+    "source-map-loader": "^0.2.4",
+    "styled-components": "^4.4.1"
+  }
+}
