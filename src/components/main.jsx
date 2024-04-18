@@ -48,15 +48,18 @@ function Main({ teams, matches, setUser }) {
       return;
     }
 
+    apiUrl = window?.configs?.apiUrl ? window.configs.apiUrl : "/";
+
     const callApi = async () => {
       const token = await getTokenSilently();
-      const response = await fetch("/api/user", {
+      const response = await fetch(`${apiUrl}/user`, {
         headers: {
           Authorization: `Bearer ${token}`,
         },
         method: "GET",
       });
       const result = await response.json();
+      console.log(result);
       setUser(result);
     };
     callApi();
