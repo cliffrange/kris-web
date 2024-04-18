@@ -48,7 +48,7 @@ function Main({ teams, matches, setUser }) {
       return;
     }
 
-    apiUrl = window?.configs?.apiUrl ? window.configs.apiUrl : "/";
+    apiUrl = "/choreo-apis/paol/krisserver/kris-server-endpoints-745/v1.0";
 
     const callApi = async () => {
       const token = await getTokenSilently();
